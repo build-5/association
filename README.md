@@ -18,3 +18,4 @@
 - Kimmo Nurmisto
 - Regine Haschka-Helmer
 - Song Choi
+- Michael Isaia 
